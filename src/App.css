@@ -45,3 +45,7 @@ body {
   background: var(--buttonBg);
   transition: all 100ms ease-out;
 }
+
+::-webkit-scrollbar {
+  display: none;
+}
